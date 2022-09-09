@@ -11,12 +11,3 @@ function chenge_color() {
   color.innerHTML = "#" + randomColor;
   console.log(color);
 }
-
-// const d = new Date;
-// let minutes = d.getMinutes()
-// function auto_change(m) {
-//   m++
-//   if (m++){
-//     chenge_color()
-//   }
-// }
